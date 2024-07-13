@@ -6,8 +6,8 @@
 - Medium - 20xp
 - Low - 2xp
 
-- Starts: ??? ??, 2024 Noon UTC
-- Ends: ??? ??, 2024 Noon UTC
+- Starts: July 18, 2024 Noon UTC
+- Ends: July 25, 2024 Noon UTC
 
 ### Stats
 
@@ -20,11 +20,13 @@ _This code was created for CodeHawks as a Community First Flight. It is made wit
 
 _Do NOT use any part of this code without reviewing it and auditing it._
 
-[//]: # "contest-details-open"
+[//]: # (contest-details-open)
 
 # Contest Details
 
 _Created by [NightHawK](https://www.codehawks.com/profile/clvmfeh090004jbg1f2oa6srl)_
+
+[Twitter](https://twitter.com/HawkApprovedDA)
 
 ## About
 
@@ -88,8 +90,9 @@ The `ThePredicter` contract is supposed to manage the registration of the player
 - `withdrawPredictionFees` allows the Organizer to withdraw the current amount of the prediction fees.
 - `withdraw` allows the Players to withdraw their rewards after the end of the tournament.
 
-[//]: # "contest-details-close"
-[//]: # "getting-started-open"
+[//]: # (contest-details-close)
+
+[//]: # (getting-started-open)
 
 # Getting Started
 
@@ -129,8 +132,9 @@ and for coverage based testing:
 forge coverage --report debug
 ```
 
-[//]: # "getting-started-close"
-[//]: # "scope-open"
+[//]: # (getting-started-close)
+
+[//]: # (scope-open)
 
 # Audit Scope Details
 
@@ -148,11 +152,12 @@ forge coverage --report debug
 - Chain(s) to deploy contract to:
   - Arbitrum
 
-[//]: # "scope-close"
-[//]: # "known-issues-open"
+[//]: # (scope-close)
+
+[//]: # (known-issues-open)
 
 # Known Issues
 
 None
 
-[//]: # "known-issues-close"
+[//]: # (known-issues-close)
